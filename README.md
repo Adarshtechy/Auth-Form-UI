@@ -20,10 +20,10 @@ This project provides a sleek **Login & Registration interface** that can be eas
 ## 📂 Project Structure
 ```
 Auth-Form-UI/
-├── index.html # Main authentication UI
-├── style.css # Styles for UI components
-├── script.js # JavaScript form logic
-├── background.jpg # Background image
+├── index.html           # Main authentication UI
+├── style.css            # Styles for UI components
+├── script.js            # JavaScript form logic
+├── background.jpg       # Background image
 ```
 
 ## 🛠️ Technologies Used
