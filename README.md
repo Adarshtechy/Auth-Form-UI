@@ -19,7 +19,7 @@ This project provides a sleek **Login & Registration interface** that can be eas
 
 ## 📂 Project Structure
 ```
-Auth-Form-UI/
+AuthFormUI/
 ├── index.html           # Main authentication UI
 ├── style.css            # Styles for UI components
 ├── script.js            # JavaScript form logic
@@ -39,7 +39,7 @@ This project is built with:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Adarshtechy/Auth-Form-UI.git
+git clone https://github.com/Adarshtechy/AuthFormUI.git
 ```
 
 Open the project
